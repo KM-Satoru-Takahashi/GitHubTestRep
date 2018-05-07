@@ -4,7 +4,7 @@
 1.first commit
 
 <<<<<<< HEAD
-2.second commit
+2.second commit	//branche
 =======
 
 2. second commit
