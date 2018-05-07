@@ -3,4 +3,10 @@
 
 1.first commit
 
+<<<<<<< HEAD
 2.second commit
+=======
+
+2. second commit
+
+>>>>>>> 41bc494643e388cb938116ddb3e5feee5e811af3
