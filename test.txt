@@ -1,2 +1,4 @@
+bar add
+foo	//this is foo
 
-foo
+maybe conflict here
