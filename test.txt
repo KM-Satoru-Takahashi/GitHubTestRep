@@ -1,4 +1,16 @@
 bar add
 foo	//this is foo
 
-maybe conflict here
+foo
+
+
+bar
+
+
+hogehoge
+
+branche1
+
+
+
+branch1-1+
