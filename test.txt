@@ -27,7 +27,7 @@ Let's enjoy Git Test!
 
 
 
-<<<<<<< HEAD
-‚±‚±‚Éclone‚Ì•ÏX·•ª‚ð—pˆÓ‚·‚éB	//branch	branch	oh,one more
-=======
->>>>>>> 33adbdf0ca025942e9fe0e10f63a322dbe88ced5
+
+
+
+
