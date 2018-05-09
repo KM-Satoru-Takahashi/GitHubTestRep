@@ -24,4 +24,8 @@ next test here
 
 testrep
 
+<<<<<<< HEAD
 ここにcloneの変更差分を用意する。	//branch	branch	oh,one more
+=======
+ここにcloneの変更差分を用意する。
+>>>>>>> 574f4f9aca4fbe46f32fdabf3bb2a2182bc14e05
