@@ -1,27 +1,33 @@
-bar add
-foo	//this is foo
-2-1!
-foo
-//2-1
-//2-1
-bar
-masterchange
+for test file
 
-hogehoge
+line 11-20 : for clone
+line 21-30 : for testRep
 
-branche1
-2-2
-2-2!
-2-2
-branch1-1+
+Let's enjoy Git Test!
 
 
-/////////////////
 
-next test here
 
-2nd test here
 
-testrep
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<<<<<<< HEAD
 ‚±‚±‚Éclone‚Ì•ÏX·•ª‚ð—pˆÓ‚·‚éB	//branch	branch	oh,one more
+=======
+>>>>>>> 33adbdf0ca025942e9fe0e10f63a322dbe88ced5
