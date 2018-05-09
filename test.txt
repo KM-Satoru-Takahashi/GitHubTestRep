@@ -8,7 +8,7 @@ bar
 masterchange
 
 hogehoge
-
+	master
 branche1
 2-2
 2-2!
