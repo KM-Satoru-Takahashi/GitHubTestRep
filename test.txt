@@ -8,10 +8,8 @@ Let's enjoy Git Test!
 
 
 
-CLONE!
-clone merge
-next
-2222
+
+
 
 
 
