@@ -9,6 +9,7 @@ Let's enjoy Git Test!
 
 
 CLONE!
+clone merge
 
 
 
