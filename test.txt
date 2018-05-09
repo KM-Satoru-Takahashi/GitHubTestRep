@@ -24,4 +24,4 @@ next test here
 
 testrep
 
-ここにcloneの変更差分を用意する。
+ここにcloneの変更差分を用意する。	//branch	branch
