@@ -9,7 +9,9 @@ Let's enjoy Git Test!
 
 
 clone clone branch
-clone test 20nd
+
+
+
 
 
 
