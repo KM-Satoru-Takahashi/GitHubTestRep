@@ -15,11 +15,11 @@ namespace TestApp
             Console.WriteLine(HelloWorld);
 
             //
-            //test commi before merge
             //
-            //test commit before merge2
             //
-            //test commit after merge
+            //
+            //
+            //
             //
             //
             //
