@@ -14,7 +14,7 @@ namespace TestApp
             
             Console.WriteLine(HelloWorld);
 
-            //
+            //master commit
             //
             //
             //
@@ -26,7 +26,7 @@ namespace TestApp
             //before merge commit
             //
             //
-            //
+            //after merge commit
             //
             //
             //
